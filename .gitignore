@@ -3,3 +3,12 @@
 ################################################################################
 
 /WebRole1/bin
+/packages
+/AzureWebRsysRole/bin/Debug
+/AzureWebRsysRole/obj/Debug
+/AzureWebRsysRole/csx/Debug/roles/WebRole1/approot/bin
+/AzureWebRsysRole/csx/Debug/roles/WebRole1/base
+/AzureWebRsysRole/csx/Debug/roles/WebRole1/plugins/Diagnostics/Monitor/x64/Extensions/ApplicationInsightsExtension/Resources
+/AzureWebRsysRole/csx/Debug/roles/WebRole1/plugins/Diagnostics
+/AzureWebRsysRole
+/WebRole1/Controllers
